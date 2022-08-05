@@ -4,3 +4,6 @@ Project sampingan untuk membuat model machine learning open source untuk membant
 
 To do list:
 * Mencari dataset sebagai dasar pembuatan model.
+
+Milestones:
+* 
