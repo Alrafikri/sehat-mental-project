@@ -4,7 +4,9 @@ Kebutuhan dataset saat ini:
 * Risk factor & diagnosis gangguan mental
 
 Potential:
-* Library: https://www.psycharchives.org/
+* Library: 
+  * https://www.psycharchives.org/
+  * https://datasetsearch.research.google.com/ 
 * Risk factors: http://www.share-project.org/data-documentation/waves-overview/wave-6.html
 * Open sourcing mental illness: https://www.kaggle.com/osmihelp/datasets
   * https://www.kaggle.com/datasets/ekwiecinska96/mental-health-in-techology-survey-2014-and-2016?select=survey_2014.csv
